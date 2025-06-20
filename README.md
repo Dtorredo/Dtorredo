@@ -1,8 +1,9 @@
 ## Hi, I'm Derrick 🌟
 
-😎Information Technology student at KCA University<br/>
+📍Nairobi, Kenya😎Information Technology student at KCA University<br/>
 💻Front-End web developer<br/>
-💎I have some front-end projects and full stack ones to showcase what I can do!!
+💎I have some front-end projects and full stack ones to showcase what I can do!! <br/>
+Portfolio Website
 
 
 
