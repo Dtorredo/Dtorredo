@@ -1,6 +1,6 @@
 ## Hi, I'm Derrick 🌟
 
-📍Nairobi, Kenya😎Information Technology student at KCA University<br/>
+📍Nairobi, Kenya <br/>😎Information Technology student at KCA University<br/>
 💻Front-End web developer<br/>
 💎I have some front-end projects and full stack ones to showcase what I can do!! <br/>
 [Derrick's portfolio](https://portfolio-ivory-tau-48.vercel.app/)
