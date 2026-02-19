@@ -12,11 +12,8 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dtorredo&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Dtorredo&theme=transparent&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Dtorredo&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-[![](https://visitcount.itsvg.in/api?id=Dtorredo&icon=0&color=11)](https://visitcount.itsvg.in)
-![](https://github-readme-stats.vercel.app/api?username=Dtorredo&theme=merko&hide_border=false&include_all_commits=false&count_private=false)<br/>
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
 ### 🔝 Top Contributed Repo
